@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently learning<br>
+I've always been wondering how 1% better looks but now I'm stuck at 1%, help me out please....
+
+Copywriter & Developer who seeks for freedom.
+<br>
 
 
 ## 🌐 Socials:
