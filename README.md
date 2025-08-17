@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basantaisg&label=Profile%20views&color=0e75b6&style=flat" alt="basantaisg" /> </p>
 
-- 💬 Ask me about **React, Solidity, Backend and Blockchains**
+- 💬 Ask me about **React, NestJS, Backend and Blockchains**
 
 - 📫 How to reach me **basantaparajuli.11@gmail.com**
 
