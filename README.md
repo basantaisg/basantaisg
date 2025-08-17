@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basanta</h1>
-<h3 align="center">A FullStack Blockchain Developer who's surfing the world of internet.</h3>
+<h3 align="center">A FullStack Developer who's surfing the world of internet.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basantaisg&label=Profile%20views&color=0e75b6&style=flat" alt="basantaisg" /> </p>
 
