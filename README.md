@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on QueryNest SaaS<br>Currently looking for a backend developer job<br>Ask me about React, Next, NestJS, Javascript<br>Founder QueryNest
+I'm currently working on nothing.. <br>Currently looking for a backend developer job<br>Ask me about React, Next, NestJS, Javascript<br>Founder --
 
 
 ## 🌐 Socials:
