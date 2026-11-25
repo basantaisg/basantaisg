@@ -1,8 +1,8 @@
 ### Hi there, I'm Basanta 👋
 
-I'm a B.Sc. CSIT undergrad, developer, and entrepreneur operating at the intersection of **Web3** and **Behavioral Psychology**. 
+I'm a B.Sc. CSIT undergrad, anti-developer, and entrepreneur operating at the intersection of **Behavioral Psychology**. 
 
-While I spend my days building on the **Solana** blockchain and exploring decentralized tech, my deeper obsession lies in human persuasion understanding why people click, buy, and engage. I treat software as the mechanism and psychology as the engine.
+While I spend my days building on the psychology(human persuasion) exploring decentralized tech, my deeper obsession lies in human persuasion understanding why people click, buy, and engage. I treat software as the mechanism and psychology as the engine.
 
 **What I'm focused on:**
 - ⛓️ **Web3 & Crypto:** Currently building and experimenting on the Solana ecosystem (with background in Arbitrum and Polygon zkEVM).
